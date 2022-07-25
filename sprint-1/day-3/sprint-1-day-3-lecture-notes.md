@@ -127,6 +127,8 @@ _Read:_ [📕 JavaScript: Expressions, Statements, and Variables](https://academ
 
 Variables are not values. Variables point to values.
 
+[Difference between var, let, and const decleration keywords](https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/)
+
 ## 3. Node.js
 
 [Node.js](https://nodejs.org/en/) is a JS runtime enviroment built on [Chrome's V8 JS engine](https://v8.dev/).
