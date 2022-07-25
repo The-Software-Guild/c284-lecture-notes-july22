@@ -14,5 +14,6 @@
 
 - All meetings are recorded and posted in [Engage](https://academy.engagelms.com/login/index.php) (LMS) daily under the "Zoom Recordings" heading.
 
-- breakout rooms (24 of you = 6 teams of 4 students each) main room, instructor office, a room for each team named after that team, 6 or more other rooms =  quiet rooms 
--communication -> chat & reaction
+- Breakout Rooms (24 of you = 6 teams of 4 students each) main room, instructor office, a room for each team named after that team, 6 or more other rooms =  quiet rooms.
+
+- Communication -> zoom chat & reactions (slow down, speed up, raise hand, away). All other comunications will be done through Engage's announcements forum or via Microsoft Temas entitled east #3.
