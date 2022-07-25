@@ -332,6 +332,12 @@ _Test yourself:_ [🧪 Exercise: Lucky Sevens](https://academy.engagelms.com/mod
 
 ## Summary
 
+JavaScript is a dynamic computer programming language. It is lightweight and most commonly used as a part of web pages, whose implementations allow client-side script to interact with the user and make dynamic pages. It is an interpreted programming language with object-oriented capabilities.
+
+The DOM represents the document as nodes and objects; that way, programming languages can interact with the page. A web page is a document that can be either displayed in the browser window or as the HTML source.
+
+CSS is a tool to add style and depth to web pages.
+
 ### References
 
 - [MDN Web Docs > Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
