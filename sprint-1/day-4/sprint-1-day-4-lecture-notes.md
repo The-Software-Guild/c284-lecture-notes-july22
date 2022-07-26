@@ -79,7 +79,7 @@ For looping over a map, there are 3 methods:
 
 ### Set
 
-A Set is a special type collection – “set of values” (without keys), where each value may occur only once. The main feature is that repeated calls of set.add(value) with the same value don’t do anything. That’s the reason why each value appears in a Set only once. Sets are best used to test for uniqueness.
+A Set is a special type collection – “set of values” (without keys), where each value may occur only once. The main feature is that repeated calls of `set.add(value)` with the same value don’t do anything. That’s the reason why each value appears in a Set only once. Sets are best used to test for uniqueness.
 
 ```javascript
 let set = new Set();
@@ -113,7 +113,7 @@ Iteration over Set:
 
 _see_assets_
 
-[HOAM](https://javascript.info/map-set)
+[HOAM](https://dev.to/shrihankp/higher-order-array-methods-in-javascript-14e7)
 
 ## 3. Exercise: Lucky Sevens
 
