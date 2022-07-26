@@ -16,7 +16,7 @@
 
 ## Overview
 
-J
+The Document Object Model (DOM) is a programming interface for web documents. It represents the page so that programs can change the document structure, style, and content. The DOM represents the document as nodes and objects; that way, programming languages can interact with the page. Today we explore two implementations of it, in the browser and somethign more modern via React.js.
 
 ### Learning Goals
 
@@ -209,7 +209,7 @@ _Test yourself:_ [🧪 Exercise: Composing Components](https://academy.engagelms
 
 ## Summary
 
-J
+In today's lessons we explored the rest of JavaScript in a aim to pave the way for React.js. We stayed really high levelwith React today in an aim to bolster those of you completely new to it. In the foloowing week will willl take a deep dive through the framework.
 
 ### References
 
