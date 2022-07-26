@@ -1,4 +1,4 @@
-// notes.js
+// main.js
 
 // top of the DOM tree window object
 
@@ -22,6 +22,9 @@
 // DOM interactions are computational
 // expensive
 
+// MVC
+// unidirectional language
+
 
 
 // events
@@ -41,22 +44,6 @@ targetDiv.addEventListener('click', onClick)
 // window.addEventListener('scroll', (e) => {
 //      console.log(e)
 // })
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
