@@ -38,9 +38,15 @@ In this lesson we:
 
 ## 1. Day 3 Recap
 
-- some thign
-
-- another thing
+- CSS Classes
+- JavaScript Syntax, Data Types (Primitive & Complex)
+- Node
+- Problem Solving Process
+- How to Ask a Good Question
+- Equality of values
+- Control Flow & Conditionals
+- Functions
+- Arrays
 
 ## 2. Map, Set, & Higher Order Array Methods
 
