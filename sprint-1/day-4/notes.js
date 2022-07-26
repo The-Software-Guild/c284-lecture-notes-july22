@@ -55,25 +55,6 @@ console.log(sliceResult)
 // console.log(spliceResult)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // top of the DOM tree window object
 
 // console.log(window)
@@ -116,6 +97,17 @@ console.log(sliceResult)
 //      console.log(e)
 // })
 
+// JSON (javascript object notation)
+// {
+//      "key": "value";
+//      "anotherKey": {};
+//      "anotherAnotherLey": [];
+// }
+
+
+// red.body
+// signature
+// head
 
 
 
@@ -136,10 +128,5 @@ console.log(sliceResult)
 
 
 
-
-
-
-
-
-
+// api acts as middleware in this data flow and are the actual rules and redulartions for the req/res
 

@@ -3,8 +3,7 @@
 // top of the DOM tree window object
 
 // console.log(window)
-// console.log(window.document)
-// console.dir(window.document) // dir gives us an object like representation of a thing that is not an object
+// console.log(document)
 // console.log(window.document.body)
 
 
@@ -27,19 +26,35 @@
 
 
 
-// events
-
-// eventTarget.addEventListener('eventName', callbackFx)
-
-// document.querySelector('.className')
-
-// event handler
-const onClick = (e) => {
-     console.log(e)
+// callback functions are async that are passed into other functions
+const callbackFx = (cbParam1) => {
+    console.log(cbParam1)
 }
 
-const targetDiv = document.getElementById('greeting');
+function higherOrderFx(cb, paramX) {
+     cb(paramX)
+}
+
+higherOrderFx(callbackFx, 'this is being logged from line 304')
+
+// events
+
+// the cb fxc from line 44 syntax is reffered to as a event handler
+//html element.addEventLister('onClick', cb)
+// eventTarget.addEventListener('eventName', callbackFx)
+
+// // event handler (onClick) vanilla js
+const onClick = (e) => {
+     e.stopPropagation()
+     console.log('this is being printed from our deeply nested child')
+}
+
+const targetParent = document.getElementById('parent')
+const targetDiv = document.getElementById('deeplyNestedChild')
 targetDiv.addEventListener('click', onClick)
+targetParent.addEventListener('click', (e) => {
+     console.log('this is from our parent')
+})
 
 // window.addEventListener('scroll', (e) => {
 //      console.log(e)
