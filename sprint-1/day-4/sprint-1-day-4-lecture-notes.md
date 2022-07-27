@@ -12,7 +12,6 @@
 8. Introduction to React.js
 9. Exercise: Composing Components
 10. Hackathon Planning & Final Idea Approvals
-11. Constructor Functions & Classes in Vanilla JS
 
 ## Overview
 
@@ -210,8 +209,6 @@ _Test yourself:_ [🧪 Exercise: Composing Components](https://academy.engagelms
 ## 10. Hackathon Planning & Final Idea Approvals
 
 [Final Project Planning part 2](https://academy.engagelms.com/mod/page/view.php?id=109458)
-
-## 11. Constructor Functions & Classes in Vanilla JS
 
 ## Summary
 

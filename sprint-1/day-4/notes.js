@@ -110,23 +110,90 @@ console.log(sliceResult)
 // head
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // api acts as middleware in this data flow and are the actual rules and redulartions for the req/res
+
+// middleware === software or code that enacts itself on 
+// EVERYTHIGN coming through a specific data flow
+
+
+// API
+// REST
+
+// CRUD                  http req/res verbs (methods)
+// Create                post
+
+// Read                  get
+
+// Update                put  
+
+// Delete                delete
+
+// RESTful 
+
+// state of the union (currentness of our country)
+// state of a molecule (water frozen, gas, liquid)
+// state === current snapshot of changes often used to track 
+
+// state 
+
+// stateless
+
+// data does not persist
+
+// singular way to persist data in WebDev currently securely === DB
+
+// server === stateless
+
+// SOAP => xml
+// REST design paradaim
+// N + 1
+// Facebook create GraphQL -> federated ata layer implementation
+
+
+
+// declararative vs imperative
+
+// D
+// go out make your way to nostrad a stop ride it to hyot s/ transfer to q 
+// ride to peenn station get out NW corener walk .3 miles 
+
+// i
+// you need to hop on the express 1 and transfer somewhere tog et you to pen 
+// then its likea round the corner 
+
+
+
+
+// pure functions
+// 1. do not change or augment their inputs (props {})
+// 2. reproducible/predictable output === given the same input it should output the same thing
+
+
+// reconcilliation => hollistic diffing algorithm that makes use of 3 assumptions
+// to kjeep track of changes and only update what is necessary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
