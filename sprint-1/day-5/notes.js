@@ -163,3 +163,45 @@ useEffect(() => {
 
 
 
+
+
+
+// do we want me to spend the next hour continuing in the sandbox explaining state, some lifecycle emthods, and hooks
+
+// 
+
+// or should I go through the react calulator exercise (raise hand)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
