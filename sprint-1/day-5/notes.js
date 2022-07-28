@@ -117,3 +117,49 @@ student1.speak()
 // polymorphism // in JS to exhibit PM you must give up encapsulation 
 
 
+// the state hook
+
+// what does calling useState do?
+// returns a pair (create starte  item and function)
+// initializes state?
+// gets the current state of something
+//
+
+// it declares us a "state variable" -> preserve values between function calls (initializes state) this.state (class)
+
+// array destrucring syntax (es6)
+const [count, setCount] = useState(0)
+
+// what do we pass to useState as ana rgument 
+// initial state value
+
+// what does useState return
+
+// effect hook
+
+
+// What does useEffect do?
+// tells react that ur component needs to do something after render 
+
+
+// Why is useEffect called inside a component? 
+// react to changes in state access to variable
+
+// certain scoped things (this, props, state )
+
+
+// Does useEffect run after every render?
+useEffect(() => {
+     document.title = `You clicked ${count} times`;
+});
+
+
+
+// 3 reasons a component re-renders (updating)
+// props change
+// state change
+// a parent or ANY parent in the component tree hierarchy also rerenders for any reason
+
+
+
+

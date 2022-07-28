@@ -10,7 +10,6 @@ import Card from './shared/Card'
 function App() {
   return (
     <>
-      <navbar></navbar>
       <Card
         background='lightCoral' 
         text='more specific error card'/>
