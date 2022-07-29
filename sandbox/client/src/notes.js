@@ -39,6 +39,69 @@
 // prop drilling => antipattern
 // anti pattern => decleration of a function within a components scope bounds
 
+// destructuring assignment syntax
+// general syntax
+// const { a1, b2, c3 } = destEx;
+// variable name on left side muyst equal property name in obj
+
+// old way of storing the property value a of destEx into a new variable
+// let newVar = destEx.a
+// let anotherVar = destEx.b
+
+// console.log(newVar) // 1
+// console.log(anotherVar) // 2
+
+
+
+// objects
+const user = {
+     id: 1,
+     name: "patrick",
+     cohorts: {
+          first: 'C284',
+          second: 'C571',
+          third: '387'
+     }
+}
+
+// DS
+
+// name, 2nd cohort
+const { name, cohorts: { second }} = user;
+
+console.log(`${name} will be teaching ${second}`)
+
+
+
+
+
+
+
+
+
+// arrays
+
+
+
+
+
+
+
+// spread operator
+// if ODS unpack valeus from constructs and composables like objects andarrays
+// then the spread operator packs them into a storage unit
+// ...varName
+// console.log(varName) // {}
+
+
+
+
+
+
+
+
+
+
 
 
 
